@@ -30,3 +30,6 @@ p {
 	font-size: 1.5em;
 	padding: 0 50px;
 }
+.container {
+	text-align: center;
+}
